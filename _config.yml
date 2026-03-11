@@ -1,0 +1,16 @@
+title: Wzp Lab
+subtitle: ''
+description: ''
+keywords:
+author: wzplab
+language: zh-CN
+timezone: Asia/Shanghai
+
+url: https://wzplab.github.io
+root: /
+permalink: :year/:month/:day/:title/
+
+theme: landscape-plus
+
+deploy:
+  type:
